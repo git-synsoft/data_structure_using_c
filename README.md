@@ -32,5 +32,6 @@ Each folder or file in this repository contains a specific implementation of a d
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/data-structures-in-c.git](https://github.com/git-synsoft/data_structure_using_c.git]
+   git clone https://github.com/yourusername/data-structures-in-c.git](https://github.com/git-synsoft/data_structure_using_c.git```
+   
 
